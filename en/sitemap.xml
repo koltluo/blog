@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/en/categories/</loc>
+    <loc>https://blog.senkuogroup.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="localhost/categories/"
+                href="https://blog.senkuogroup.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/en/categories/"
+                href="https://blog.senkuogroup.com/en/categories/"
                 />
   </url><url>
-    <loc>localhost/en/tags/</loc>
+    <loc>https://blog.senkuogroup.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="localhost/tags/"
+                href="https://blog.senkuogroup.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/en/tags/"
+                href="https://blog.senkuogroup.com/en/tags/"
                 />
   </url><url>
-    <loc>localhost/en/</loc>
+    <loc>https://blog.senkuogroup.com/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="localhost/"
+                href="https://blog.senkuogroup.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/en/"
+                href="https://blog.senkuogroup.com/en/"
                 />
   </url>
 </urlset>
