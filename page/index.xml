@@ -107,7 +107,6 @@
 &lt;/svg&gt;&lt;/span&gt;
 
 &lt;/li&gt;
-&lt;li&gt;维护日志：见下&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;本站时间线&#34;&gt;⏳本站时间线&lt;/h3&gt;
 &lt;div class=&#34;timeline__row&#34;&gt;
@@ -284,7 +283,8 @@
 &lt;/style&gt;
 
 &lt;h3 id=&#34;项目&#34;&gt;🌐🪙项目&lt;/h3&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://nav8.top&#34;  title=&#34;外贸之家网址导航--外贸人士必备的工具网站&#34;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nav8.top&#34;  title=&#34;外贸之家网址导航--外贸人士必备的工具网站&#34;
      target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;外贸之家网址导航&lt;/a&gt;
 	
@@ -296,13 +296,364 @@
         fill=&#34;currentColor&#34;&gt;
 &lt;/svg&gt;&lt;/span&gt;
 
-&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;《变频器从入门到精通》电子书编写中，以下为本书的进展情况👇
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2024-01-10&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;大纲&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;https://blog.senkuogroup.com/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a%e6%80%bb%e7%9b%ae%e5%bd%95/&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;《变频器从入门到精通》大纲&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            《变频器从入门到精通》主题大纲
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+
+&lt;div class=&#34;timeline__row&#34;&gt;
+    &lt;div class=&#34;timeline__time&#34;&gt;
+        &lt;div class=&#34;timeline__time&#34;&gt;2024-01-11&lt;/div&gt;
+        &lt;div class=&#34;timeline__split-line&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;timeline__content&#34;&gt;
+        &lt;div class=&#34;timeline__tags&#34;&gt;
+            &lt;span class=&#34;timeline__tag&#34;&gt;大纲&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;a href=&#34;https://blog.senkuogroup.com/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a%e5%89%8d%e8%a8%80/&#34;&gt;
+            &lt;div class=&#34;timeline__title&#34;&gt;《变频器从入门到精通》前言&lt;/div&gt;
+        &lt;/a&gt;
+        
+        &lt;div class=&#34;timeline__description&#34;&gt;
+            《变频器从入门到精通》前言
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+    .timeline {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .timeline__row {
+        display: flex;
+        padding-left: 4%;
+        height: 90px;
+    }
+    
+    .timeline__time {
+        flex: 0 0 110px;
+        color: #5d5d5d;
+        font-size: 17px;
+        text-transform: uppercase;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5rem 0;
+    }
+    
+    .timeline__time-text {
+        margin: 0;
+    }
+    
+    .timeline__split-line {
+        position: absolute;
+        top: 0.5rem;
+        right: -20px;
+        height: 100%;
+        width: 2px;
+        background-color: #84c4e240;
+        z-index: 0;
+    }
+    
+    .timeline__split-line:before {
+        content: &#34;&#34;;
+        position: absolute;
+        top: 24%;
+        right: -4px;
+        transform: translateY(-50%);
+        width: 10px;
+        height: 10px;
+        background-color: #c9e5f2;
+        box-shadow: 0 0 0 4px var(--theme);
+        border-radius: 50%;
+        border: 0px solid #84c4e2;
+        z-index: -1;
+    }
+    
+    .timeline__content {
+        flex: 1;
+        margin-left: 4.5rem;
+        padding: 0.5rem 0 1.2rem 0;
+    }
+    
+    .timeline__title {
+        margin: 0;
+        margin-bottom: 2px;
+        padding-top: 3px;
+        margin-left: 0.5rem;
+        color: var(--content);
+        font-family: var(--font-family-teshu);
+        font-size: 19px;
+        font-weight: 600;
+        width: fit-content;
+        display: inline-block;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__tags {
+        display: inline-block;
+        padding: 0;
+        margin-left: 0.3rem;
+        align-items: center;
+        gap: 0.3rem;
+    }
+    
+    .timeline__tag {
+        display: inline-block;
+        color: var(--secondary);
+        background-color: #84c4e230;
+        border: 1.5px solid #84c4e230;
+        border-radius: 999px;
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+        white-space: nowrap;
+        line-height: 1.4rem;
+        opacity: 0.8;
+        vertical-align: middle;
+         
+    }
+    
+    .timeline__description {
+        font-size: 15px;
+        line-height: 1.6;
+        color: #5d5d5d;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0.5rem 0 0.4rem 1.5rem;
+         
+    }
+     
+    
+    .timeline__tag-style {
+        background-color: #c581da;
+         
+        border-color: #c581da;
+         
+        color: #FFFFFF;
+         
+    }
+     
+    
+    .timeline__tag-article {
+        background-color: #92d392;
+         
+        border-color: #92d392;
+         
+        color: #000000;
+         
+    }
+     
+    
+    .timeline__tag-page {
+        background-color: #707070;
+         
+        border-color: #707070;
+         
+        color: #FFFFFF;
+         
+    }
+    
+    @media screen and (max-width: 768px) {
+        .timeline__time {
+            font-size: 14px;
+             
+        }
+        .timeline__title {
+            font-size: 16px;
+             
+        }
+        .timeline__description {
+            font-size: 14px;
+             
+        }
+    }
+&lt;/style&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;-博主是谁&#34;&gt;👨‍💻 博主是谁&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;昵称：&lt;/strong&gt; 不期而至🤝&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;性别：&lt;/strong&gt; ♂&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;身份：&lt;/strong&gt; 一枚苦逼的电气工控产品销售&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;地点：&lt;/strong&gt; 山东临沂🤣&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;身份：&lt;/strong&gt; 一枚苦逼的电气工控产品销售，产品见👉&lt;a class=&#34;link&#34; href=&#34;https://blog.senkuogroup.com/gallery/&#34; &gt;相册&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;地点：&lt;/strong&gt; 山东临沂&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;邮箱：&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;mailto:admin@nav8.top&#34; &gt;admin@nav8.top&lt;/a&gt;
 	
 	
