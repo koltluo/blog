@@ -29,9 +29,6 @@
     <loc>https://blog.senkuogroup.com/tags/%E9%80%9A%E4%BF%A1/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.senkuogroup.com/categories/%E8%B5%84%E8%AE%AF/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.senkuogroup.com/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -97,8 +94,12 @@
   </url><url>
     <loc>https://blog.senkuogroup.com/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
+    <loc>https://blog.senkuogroup.com/categories/%E8%BD%AF%E5%90%AF%E5%8A%A8/</loc>
+  </url><url>
     <loc>https://blog.senkuogroup.com/search/</loc>
   </url><url>
     <loc>https://blog.senkuogroup.com/%E5%8F%8B%E9%93%BE/</loc>
+  </url><url>
+    <loc>https://blog.senkuogroup.com/categories/%E8%B5%84%E8%AE%AF/</loc>
   </url>
 </urlset>
