@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>资讯 on 不期而至</title>
-        <link>https://blog.senkuogroup.com/categories/%E8%B5%84%E8%AE%AF/</link>
+        <link>https://blog.nav8.top/categories/%E8%B5%84%E8%AE%AF/</link>
         <description>Recent content in 资讯 on 不期而至</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>不期而至的博客，A better you,A bigger world.</copyright><atom:link href="https://blog.senkuogroup.com/categories/%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>不期而至的博客，A better you,A bigger world.</copyright><atom:link href="https://blog.nav8.top/categories/%E8%B5%84%E8%AE%AF/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

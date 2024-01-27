@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>PLC on 不期而至</title>
-        <link>https://blog.senkuogroup.com/tags/plc/</link>
+        <link>https://blog.nav8.top/tags/plc/</link>
         <description>Recent content in PLC on 不期而至</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>不期而至的博客，A better you,A bigger world.</copyright>
-        <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.senkuogroup.com/tags/plc/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nav8.top/tags/plc/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>变频器如何与PLC通信</title>
-        <link>https://blog.senkuogroup.com/p/%E5%8F%98%E9%A2%91%E5%99%A8%E5%A6%82%E4%BD%95%E4%B8%8Eplc%E9%80%9A%E4%BF%A1/</link>
+        <link>https://blog.nav8.top/p/%E5%8F%98%E9%A2%91%E5%99%A8%E5%A6%82%E4%BD%95%E4%B8%8Eplc%E9%80%9A%E4%BF%A1/</link>
         <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.senkuogroup.com/p/%E5%8F%98%E9%A2%91%E5%99%A8%E5%A6%82%E4%BD%95%E4%B8%8Eplc%E9%80%9A%E4%BF%A1/</guid>
+        <guid>https://blog.nav8.top/p/%E5%8F%98%E9%A2%91%E5%99%A8%E5%A6%82%E4%BD%95%E4%B8%8Eplc%E9%80%9A%E4%BF%A1/</guid>
         <description>&lt;img src="https://images.unsplash.com/photo-1697665896572-35775520b8f8?w=600&amp;auto=format&amp;fit=crop&amp;q=60&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFBMQ3xlbnwwfHwwfHx8MA%3D%3D" alt="Featured image of post 变频器如何与PLC通信" /&gt;&lt;p&gt;亲爱的读者们，今天我们来聊聊一个工业自动化领域的热门话题：变频器如何与PLC携手共舞，实现精密的工业控制。想象一下，变频器是一位精通舞蹈的艺术家，而PLC则是那位指挥着整场表演的指挥家。他们如何协同合作，创造出工业自动化的和谐乐章呢？让我们一探究竟。&lt;/p&gt;
 &lt;p&gt;首先，为了确保这场表演的成功，我们需要一个可靠的通信协议，这就像是变频器与PLC之间的共同语言。常见的通信协议包括Modbus、Profibus、EtherNet/IP等。这些协议就像不同的方言或外语，用于指定通信的格式和规则，确保信息可以准确无误地传递。&lt;/p&gt;
 &lt;p&gt;然后，我们要配置PLC，让它能够发送正确的指令给变频器。这就像是编排一场舞蹈，指挥家（PLC）需要告诉舞者（变频器）何时开始，如何移动。在PLC的程序中，我们会设置如何控制变频器的启动、停止、速度调整等操作。当PLC发送这些指令时，变频器会接收并执行，就像是舞者根据音乐的节奏舞动。&lt;/p&gt;

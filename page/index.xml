@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 不期而至</title>
-        <link>https://blog.senkuogroup.com/page/</link>
+        <link>https://blog.nav8.top/page/</link>
         <description>Recent content in Pages on 不期而至</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>不期而至的博客，A better you,A bigger world.</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.senkuogroup.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nav8.top/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
-        <link>https://blog.senkuogroup.com/archives/</link>
+        <link>https://blog.nav8.top/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.senkuogroup.com/archives/</guid>
+        <guid>https://blog.nav8.top/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://blog.senkuogroup.com/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://blog.nav8.top/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.senkuogroup.com/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://blog.nav8.top/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;h2 id=&#34;-关于本站&#34;&gt;🏠 关于本站&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;博客框架：&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -118,7 +118,7 @@
         &lt;div class=&#34;timeline__tags&#34;&gt;
             &lt;span class=&#34;timeline__tag&#34;&gt;上线&lt;/span&gt;
         &lt;/div&gt;
-        &lt;a href=&#34;https://blog.senkuogroup.com/&#34;&gt;
+        &lt;a href=&#34;https://blog.nav8.top/&#34;&gt;
             &lt;div class=&#34;timeline__title&#34;&gt;本站成功上线&lt;/div&gt;
         &lt;/a&gt;
         
@@ -307,7 +307,7 @@
         &lt;div class=&#34;timeline__tags&#34;&gt;
             &lt;span class=&#34;timeline__tag&#34;&gt;大纲&lt;/span&gt;
         &lt;/div&gt;
-        &lt;a href=&#34;https://blog.senkuogroup.com/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e6%80%bb%e7%9b%ae%e5%bd%95/&#34;&gt;
+        &lt;a href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e6%80%bb%e7%9b%ae%e5%bd%95/&#34;&gt;
             &lt;div class=&#34;timeline__title&#34;&gt;《变频器从入门到精通》大纲&lt;/div&gt;
         &lt;/a&gt;
         
@@ -480,7 +480,7 @@
         &lt;div class=&#34;timeline__tags&#34;&gt;
             &lt;span class=&#34;timeline__tag&#34;&gt;前言&lt;/span&gt;
         &lt;/div&gt;
-        &lt;a href=&#34;https://blog.senkuogroup.com/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%89%8d%e8%a8%80/&#34;&gt;
+        &lt;a href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%89%8d%e8%a8%80/&#34;&gt;
             &lt;div class=&#34;timeline__title&#34;&gt;《变频器从入门到精通》前言&lt;/div&gt;
         &lt;/a&gt;
         
@@ -653,7 +653,7 @@
         &lt;div class=&#34;timeline__tags&#34;&gt;
             &lt;span class=&#34;timeline__tag&#34;&gt;第一章&lt;/span&gt;
         &lt;/div&gt;
-        &lt;a href=&#34;https://blog.senkuogroup.com/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e4%bb%80%e4%b9%88%e6%98%af%e5%8f%98%e9%a2%91%e5%99%a8/&#34;&gt;
+        &lt;a href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e4%bb%80%e4%b9%88%e6%98%af%e5%8f%98%e9%a2%91%e5%99%a8/&#34;&gt;
             &lt;div class=&#34;timeline__title&#34;&gt;《变频器从入门到精通》1.1什么是变频器？&lt;/div&gt;
         &lt;/a&gt;
         
@@ -822,7 +822,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;昵称：&lt;/strong&gt; 不期而至🤝&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;性别：&lt;/strong&gt; ♂&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;身份：&lt;/strong&gt; 一枚苦逼的电气工控产品销售，产品见👉&lt;a class=&#34;link&#34; href=&#34;https://blog.senkuogroup.com/gallery/&#34; &gt;相册&lt;/a&gt;
+&lt;li&gt;&lt;strong&gt;身份：&lt;/strong&gt; 一枚苦逼的电气工控产品销售，产品见👉&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/gallery/&#34; &gt;相册&lt;/a&gt;
 	
 	
 &lt;/li&gt;
@@ -838,7 +838,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;-投喂作者&#34;&gt;👍 投喂作者&lt;/h2&gt;
 &lt;p&gt;于 2023-07-26 开启，由于网站建设与维护实属不易，如果您想支持我的网站，可以扫描下方二维码进行投喂（投喂时请备注自己的昵称，站长收到后将在下面展示），非常感谢您的支持~ 🫶🫶🫶&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.senkuogroup.com/img/er.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.nav8.top/img/er.png&#34;
 	
 	
 	
@@ -881,18 +881,18 @@
         </item>
         <item>
         <title>搜索</title>
-        <link>https://blog.senkuogroup.com/search/</link>
+        <link>https://blog.nav8.top/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.senkuogroup.com/search/</guid>
+        <guid>https://blog.nav8.top/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友链</title>
-        <link>https://blog.senkuogroup.com/%E5%8F%8B%E9%93%BE/</link>
+        <link>https://blog.nav8.top/%E5%8F%8B%E9%93%BE/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.senkuogroup.com/%E5%8F%8B%E9%93%BE/</guid>
+        <guid>https://blog.nav8.top/%E5%8F%8B%E9%93%BE/</guid>
         <description>&lt;h2 id=&#34;我的-blog-信息&#34;&gt;我的 Blog 信息&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;🍔名字：不期而至 🤝&lt;br&gt;
