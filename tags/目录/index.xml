@@ -38,57 +38,147 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;第二章：变频器的工作原理&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;[[2.1变频器的组成和结构]]&lt;/li&gt;
-&lt;li&gt;[[2.2PWM调制技术和输出控制]]&lt;/li&gt;
-&lt;li&gt;[[2.3频率和电压调整的原理]]&lt;/li&gt;
-&lt;li&gt;[[2.4矢量控制和直接转矩控制]]&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e7%9a%84%e7%bb%84%e6%88%90%e5%92%8c%e7%bb%93%e6%9e%84/&#34; &gt;2.1变频器的组成和结构&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--PWM%e8%b0%83%e5%88%b6%e6%8a%80%e6%9c%af%e5%92%8c%e8%be%93%e5%87%ba%e6%8e%a7%e5%88%b6/&#34; &gt;2.2PWM调制技术和输出控制&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e9%a2%91%e7%8e%87%e5%92%8c%e7%94%b5%e5%8e%8b%e8%b0%83%e6%95%b4%e7%9a%84%e5%8e%9f%e7%90%86/&#34; &gt;2.3频率和电压调整的原理&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e7%9f%a2%e9%87%8f%e6%8e%a7%e5%88%b6%e5%92%8c%e7%9b%b4%e6%8e%a5%e8%bd%ac%e7%9f%a9%e6%8e%a7%e5%88%b6/&#34; &gt;2.4矢量控制和直接转矩控制&lt;/a&gt;
+	
+	
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;第三章：变频器的选择和规格&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;[[3.1选择适当的变频器类型]]&lt;/li&gt;
-&lt;li&gt;[[3.2根据负载和电机参数选择变频器]]&lt;/li&gt;
-&lt;li&gt;[[3.3额定功率、电压和频率的重要性]]&lt;/li&gt;
-&lt;li&gt;[[3.4隔离型和非隔离型变频器的比较]]&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e9%80%89%e6%8b%a9%e9%80%82%e5%bd%93%e7%9a%84%e5%8f%98%e9%a2%91%e5%99%a8%e7%b1%bb%e5%9e%8b/&#34; &gt;3.1选择适当的变频器类型&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e6%a0%b9%e6%8d%ae%e8%b4%9f%e8%bd%bd%e5%92%8c%e7%94%b5%e6%9c%ba%e5%8f%82%e6%95%b0%e9%80%89%e6%8b%a9%e5%8f%98%e9%a2%91%e5%99%a8/&#34; &gt;3.2根据负载和电机参数选择变频器&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e9%a2%9d%e5%ae%9a%e5%8a%9f%e7%8e%87%e7%94%b5%e5%8e%8b%e5%92%8c%e9%a2%91%e7%8e%87%e7%9a%84%e9%87%8d%e8%a6%81%e6%80%a7/&#34; &gt;3.3额定功率、电压和频率的重要性&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e9%9a%94%e7%a6%bb%e5%9e%8b%e5%92%8c%e9%9d%9e%e9%9a%94%e7%a6%bb%e5%9e%8b%e5%8f%98%e9%a2%91%e5%99%a8%e7%9a%84%e6%af%94%e8%be%83/&#34; &gt;3.4隔离型和非隔离型变频器的比较&lt;/a&gt;
+	
+	
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;第四章：变频器的安装和调试&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;[[4.1安装前的准备工作]]&lt;/li&gt;
-&lt;li&gt;[[4.2电气连接和线缆布线]]&lt;/li&gt;
-&lt;li&gt;[[4.3参数设置和调整步骤]]&lt;/li&gt;
-&lt;li&gt;[[4.4运行测试和性能验证]]&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e5%ae%89%e8%a3%85%e5%89%8d%e7%9a%84%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c/&#34; &gt;4.1安装前的准备工作&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e7%94%b5%e6%b0%94%e8%bf%9e%e6%8e%a5%e5%92%8c%e7%ba%bf%e7%bc%86%e5%b8%83%e7%ba%bf/&#34; &gt;4.2电气连接和线缆布线&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e5%8f%82%e6%95%b0%e8%ae%be%e7%bd%ae%e5%92%8c%e8%b0%83%e6%95%b4%e6%ad%a5%e9%aa%a4/&#34; &gt;4.3参数设置和调整步骤&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e8%bf%90%e8%a1%8c%e6%b5%8b%e8%af%95%e5%92%8c%e6%80%a7%e8%83%bd%e9%aa%8c%e8%af%81/&#34; &gt;4.4运行测试和性能验证&lt;/a&gt;
+	
+	
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;第五章：变频器的操作和控制&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;[[5.1控制面板和用户界面]]&lt;/li&gt;
-&lt;li&gt;[[5.2启停、速度调节和方向控制]]&lt;/li&gt;
-&lt;li&gt;[[5.3多点运行、定位和同步控制]]&lt;/li&gt;
-&lt;li&gt;[[5.4外部信号输入和输出配置]]&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e6%8e%a7%e5%88%b6%e9%9d%a2%e6%9d%bf%e5%92%8c%e7%94%a8%e6%88%b7%e7%95%8c%e9%9d%a2/&#34; &gt;5.1控制面板和用户界面&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e5%90%af%e5%81%9c%e9%80%9f%e5%ba%a6%e8%b0%83%e8%8a%82%e5%92%8c%e6%96%b9%e5%90%91%e6%8e%a7%e5%88%b6/&#34; &gt;5.2启停、速度调节和方向控制&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e5%a4%9a%e7%82%b9%e8%bf%90%e8%a1%8c%e5%ae%9a%e4%bd%8d%e5%92%8c%e5%90%8c%e6%ad%a5%e6%8e%a7%e5%88%b6/&#34; &gt;5.3多点运行、定位和同步控制&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e5%a4%96%e9%83%a8%e4%bf%a1%e5%8f%b7%e8%be%93%e5%85%a5%e5%92%8c%e8%be%93%e5%87%ba%e9%85%8d%e7%bd%ae/&#34; &gt;5.4外部信号输入和输出配置&lt;/a&gt;
+	
+	
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;第六章：变频器故障诊断与维护&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;[[6.1常见故障和故障代码解析]]&lt;/li&gt;
-&lt;li&gt;[[6.2故障诊断流程和排除方法]]&lt;/li&gt;
-&lt;li&gt;[[6.3变频器的维护和保养]]&lt;/li&gt;
-&lt;li&gt;[[6.4温度、湿度和灰尘管理的重要性]]&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e5%b8%b8%e8%a7%81%e6%95%85%e9%9a%9c%e5%92%8c%e6%95%85%e9%9a%9c%e4%bb%a3%e7%a0%81%e8%a7%a3%e6%9e%90/&#34; &gt;6.1常见故障和故障代码解析&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e6%95%85%e9%9a%9c%e8%af%8a%e6%96%ad%e6%b5%81%e7%a8%8b%e5%92%8c%e6%8e%92%e9%99%a4%e6%96%b9%e6%b3%95/&#34; &gt;6.2故障诊断流程和排除方法&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e7%9a%84%e7%bb%b4%e6%8a%a4%e5%92%8c%e4%bf%9d%e5%85%bb/&#34; &gt;6.3变频器的维护和保养&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e6%b8%a9%e5%ba%a6%e6%b9%bf%e5%ba%a6%e5%92%8c%e7%81%b0%e5%b0%98%e7%ae%a1%e7%90%86%e7%9a%84%e9%87%8d%e8%a6%81%e6%80%a7/&#34; &gt;6.4温度、湿度和灰尘管理的重要性&lt;/a&gt;
+	
+	
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;第七章：高级应用和进阶技术&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;[[7.1多变频器网络控制和通信]]&lt;/li&gt;
-&lt;li&gt;[[7.2能量回馈和节能技术]]&lt;/li&gt;
-&lt;li&gt;[[7.3无传感器矢量控制和自适应控制]]&lt;/li&gt;
-&lt;li&gt;[[7.4变频器与自动化系统集成]]&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%a4%9a%e5%8f%98%e9%a2%91%e5%99%a8%e7%bd%91%e7%bb%9c%e6%8e%a7%e5%88%b6%e5%92%8c%e9%80%9a%e4%bf%a1/&#34; &gt;7.1多变频器网络控制和通信&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e8%83%bd%e9%87%8f%e5%9b%9e%e9%a6%88%e5%92%8c%e8%8a%82%e8%83%bd%e6%8a%80%e6%9c%af/&#34; &gt;7.2能量回馈和节能技术&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e6%97%a0%e4%bc%a0%e6%84%9f%e5%99%a8%e7%9f%a2%e9%87%8f%e6%8e%a7%e5%88%b6%e5%92%8c%e8%87%aa%e9%80%82%e5%ba%94%e6%8e%a7%e5%88%b6/&#34; &gt;7.3无传感器矢量控制和自适应控制&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e4%b8%8e%e8%87%aa%e5%8a%a8%e5%8c%96%e7%b3%bb%e7%bb%9f%e9%9b%86%e6%88%90/&#34; &gt;7.4变频器与自动化系统集成&lt;/a&gt;
+	
+	
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;第八章：未来发展和趋势&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;[[8.1智能变频器和人工智能应用]]&lt;/li&gt;
-&lt;li&gt;[[8.2新材料和散热技术的创新]]&lt;/li&gt;
-&lt;li&gt;[[8.3环保和可持续发展的影响]]&lt;/li&gt;
-&lt;li&gt;[[8.4变频器行业的未来展望]]&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e6%99%ba%e8%83%bd%e5%8f%98%e9%a2%91%e5%99%a8%e5%92%8c%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%ba%94%e7%94%a8/&#34; &gt;8.1智能变频器和人工智能应用&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e6%96%b0%e6%9d%90%e6%96%99%e5%92%8c%e6%95%a3%e7%83%ad%e6%8a%80%e6%9c%af%e7%9a%84%e5%88%9b%e6%96%b0/&#34; &gt;8.2新材料和散热技术的创新&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e7%8e%af%e4%bf%9d%e5%92%8c%e5%8f%af%e6%8c%81%e7%bb%ad%e5%8f%91%e5%b1%95%e7%9a%84%e5%bd%b1%e5%93%8d/&#34; &gt;8.3环保和可持续发展的影响&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%8f%98%e9%a2%91%e5%99%a8%e8%a1%8c%e4%b8%9a%e7%9a%84%e6%9c%aa%e6%9d%a5%e5%b1%95%e6%9c%9b/&#34; &gt;8.4变频器行业的未来展望&lt;/a&gt;
+	
+	
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;附录：常用术语和技术指标解释&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;[[常见的变频器术语和缩写]]&lt;/li&gt;
-&lt;li&gt;[[技术指标的解释和计算方法]]&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e5%b8%b8%e8%a7%81%e7%9a%84%e5%8f%98%e9%a2%91%e5%99%a8%e6%9c%af%e8%af%ad%e5%92%8c%e7%bc%a9%e5%86%99/&#34; &gt;常见的变频器术语和缩写&lt;/a&gt;
+	
+	
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.nav8.top/p/%e5%8f%98%e9%a2%91%e5%99%a8%e4%bb%8e%e5%85%a5%e9%97%a8%e5%88%b0%e7%b2%be%e9%80%9a--%e6%8a%80%e6%9c%af%e6%8c%87%e6%a0%87%e7%9a%84%e8%a7%a3%e9%87%8a%e5%92%8c%e8%ae%a1%e7%ae%97%e6%96%b9%e6%b3%95/&#34; &gt;技术指标的解释和计算方法&lt;/a&gt;
+	
+	
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
