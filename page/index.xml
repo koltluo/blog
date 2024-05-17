@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 潜能觉醒</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://blog.nav8.top/page/</link>
         <description>Recent content in Pages on 潜能觉醒</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>潜能觉醒，一个专注于个人成长和自我提升的平台。</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nav8.top/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://blog.nav8.top/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://blog.nav8.top/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>工具</title>
-        <link>http://localhost:1313/tools/</link>
+        <link>https://blog.nav8.top/tools/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tools/</guid>
+        <guid>https://blog.nav8.top/tools/</guid>
         <description>&lt;h2 id=&#34;本站收集的实用工具&#34;&gt;本站收集的实用工具&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;声明：网站上的服务均为第三方提供，与本站无关。请用户注意甄别服务质量，避免上当受骗。&lt;/p&gt;
@@ -30,10 +30,10 @@
         </item>
         <item>
         <title>关于</title>
-        <link>http://localhost:1313/about/</link>
+        <link>https://blog.nav8.top/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/about/</guid>
+        <guid>https://blog.nav8.top/about/</guid>
         <description>&lt;h2 id=&#34;-关于本站&#34;&gt;🏠 关于本站&lt;/h2&gt;
 &lt;p&gt;🌟 &lt;strong&gt;潜能觉醒 | 释放你的无限可能&lt;/strong&gt; 🌟&lt;/p&gt;
 &lt;p&gt;欢迎来到“潜能觉醒”，一个致力于激发个人成长和自我提升的平台。我们相信，每个人都有未被发掘的潜力，只待正确的引导和启发。&lt;/p&gt;
@@ -53,7 +53,7 @@
 &lt;p&gt;🌐 &lt;strong&gt;加入我们&lt;/strong&gt;：
 在这个旅程中，你不是一个人。让我们一起探索、学习和成长，释放你的无限潜能，创造更加精彩的人生。&lt;/p&gt;
 &lt;p&gt;👉 关注“潜能觉醒”，开始你的变革之旅。我们在这里等你，一起见证每一步的进步和成长。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/wechat.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.nav8.top/images/wechat.png&#34;
 	
 	
 	
@@ -66,7 +66,7 @@
 &lt;p&gt;#潜能开发 #自我提升 #个人成长 #生活改善&lt;/p&gt;
 &lt;h2 id=&#34;-投喂作者&#34;&gt;👍 投喂作者&lt;/h2&gt;
 &lt;p&gt;于 2023-07-26 开启，由于网站建设与维护实属不易，如果您想支持我的网站，可以扫描下方二维码进行投喂（投喂时请备注自己的昵称，站长收到后将在下面展示），非常感谢您的支持~ 🫶🫶🫶&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/er.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://blog.nav8.top/images/er.png&#34;
 	
 	
 	
@@ -109,18 +109,18 @@
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://blog.nav8.top/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://blog.nav8.top/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友链</title>
-        <link>http://localhost:1313/links/</link>
+        <link>https://blog.nav8.top/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/links/</guid>
+        <guid>https://blog.nav8.top/links/</guid>
         <description>&lt;h2 id=&#34;本站信息&#34;&gt;本站信息🤝&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;🍔名字：潜能觉醒&lt;br&gt;
