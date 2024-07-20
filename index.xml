@@ -7,7 +7,385 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>潜能觉醒，一个专注于个人成长和自我提升的平台。</copyright>
-        <lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nav8.top/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 20 Jul 2024 20:18:18 +0000</lastBuildDate><atom:link href="https://blog.nav8.top/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>360安全浏览器15 优化版（15.3.5100.64、15.2.5100.0）</title>
+        <link>https://blog.nav8.top/360%E5%AE%89%E5%85%A8%E6%B5%8F%E8%A7%88%E5%99%A815-%E4%BC%98%E5%8C%96%E7%89%8815.3.5100.6415.2.5100.0/</link>
+        <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.nav8.top/360%E5%AE%89%E5%85%A8%E6%B5%8F%E8%A7%88%E5%99%A815-%E4%BC%98%E5%8C%96%E7%89%8815.3.5100.6415.2.5100.0/</guid>
+        <description>&lt;h2 id=&#34;软件简介&#34;&gt;软件简介：&lt;/h2&gt;
+&lt;p&gt;360安全浏览器15已经到来，主要特性：采用chromium122内核，性能更好，速度更快，支持IE内核，兼容各种办公OA系统。&lt;/p&gt;
+&lt;h2 id=&#34;软件特点&#34;&gt;软件特点：&lt;/h2&gt;
+&lt;p&gt;360安全浏览器15，隆重登场！&lt;/p&gt;
+&lt;p&gt;双核64位，采用chromium122内核，速度更快，&lt;/p&gt;
+&lt;p&gt;支持IE内核，兼容各种办公OA系统。&lt;/p&gt;
+&lt;h2 id=&#34;优化版特点&#34;&gt;优化版特点：&lt;/h2&gt;
+&lt;p&gt;文件精简&lt;/p&gt;
+&lt;p&gt;设置优化&lt;/p&gt;
+&lt;p&gt;预置Flash&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志：&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;安装更新：&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;2024.5.14&lt;/p&gt;
+&lt;p&gt;新增屏蔽强制关联 DPF 等文件&lt;/p&gt;
+&lt;p&gt;2024.3.22&lt;/p&gt;
+&lt;p&gt;新增32位版&lt;/p&gt;
+&lt;p&gt;2023.12.15&lt;/p&gt;
+&lt;p&gt;安装包完善，检测到有旧版本不会覆盖旧版设置。&lt;/p&gt;
+&lt;p&gt;2023.12.02&lt;/p&gt;
+&lt;p&gt;安装包修改，已存在配置文件时将不覆盖&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;官方更新：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;15.3.5100.64&lt;/p&gt;
+&lt;p&gt;1、优化AI模式&lt;/p&gt;
+&lt;p&gt;2、优化ai扩展和图片扩展&lt;/p&gt;
+&lt;p&gt;3、优化计算内存&lt;/p&gt;
+&lt;p&gt;4、设置增加ai阅读按钮设置项&lt;/p&gt;
+&lt;p&gt;5、修复大dpi下登陆窗口显示异常&lt;/p&gt;
+&lt;p&gt;6、暗黑模式下，右侧栏布局异常&lt;/p&gt;
+&lt;p&gt;7、修复一个会员引起的崩溃&lt;/p&gt;
+&lt;p&gt;8、修复一个切核引起的崩溃&lt;/p&gt;
+&lt;p&gt;9、修复一个扩展弹框引起的崩溃&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址：&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;官方版（32位）：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://down.360safe.com/se/360se15.2.3072.0.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://down.360safe.com/se/360se15.2.3072.0.exe&lt;/a&gt;
+	
+	
+&lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+    height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+    &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+    &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+        fill=&#34;currentColor&#34;&gt;
+&lt;/svg&gt;&lt;/span&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;官方版（64位）：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://down.360safe.com/se/360se15.3.3072.64.exe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://down.360safe.com/se/360se15.3.3072.64.exe&lt;/a&gt;
+	
+	
+&lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+    height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+    &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+    &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+        fill=&#34;currentColor&#34;&gt;
+&lt;/svg&gt;&lt;/span&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优化版：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;城通盘：https://url61.ctfile.com/d/12483661-48017277-73ed26 访问码：3333&lt;/p&gt;
+&lt;p&gt;迅雷盘：https://pan.xunlei.com/s/VNkFCW2p8TLSjRuHEHUYf5IoA1?pwd=yuzj#&lt;/p&gt;
+&lt;p&gt;夸克盘：https://pan.quark.cn/s/f51f21577e53&lt;/p&gt;
+&lt;p&gt;天翼云：https://cloud.189.cn/t/2Ir6RjJzaYVz 访问码：am81&lt;/p&gt;
+&lt;p&gt;蓝奏云：https://mefcl.lanzouw.com/b011h51lc 密码：1qs2&lt;/p&gt;
+&lt;p&gt;123 盘：https://www.123pan.com/s/QdiA-nL4mh&lt;/p&gt;
+&lt;h2 id=&#34;软件截图&#34;&gt;软件截图：&lt;/h2&gt;
+&lt;img decoding=&#34;async&#34; fetchpriority=&#34;high&#34; class=&#34;alignnone size-medium&#34; src=&#34;https://s1.ax1x.com/2022/04/08/LCkAlF.png&#34;   /&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.nav8.top/images/wechat.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;关注公众号免费获取下载密码&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AI图片放大工具 | Final2x（1.3.1）</title>
+        <link>https://blog.nav8.top/ai%E5%9B%BE%E7%89%87%E6%94%BE%E5%A4%A7%E5%B7%A5%E5%85%B7-final2x1.3.1/</link>
+        <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.nav8.top/ai%E5%9B%BE%E7%89%87%E6%94%BE%E5%A4%A7%E5%B7%A5%E5%85%B7-final2x1.3.1/</guid>
+        <description>&lt;h2 id=&#34;软件简介&#34;&gt;软件简介：&lt;/h2&gt;
+&lt;p&gt;这是一个强大的工具，可以使用多个模型将图像超分辨率到任意大小，以提高图像的分辨率和质量，使其更清晰和更详细。&lt;/p&gt;
+&lt;p&gt;目前，它支持这几个模型：RealCUGAN、RealESRGAN、Waifu2x和SRMD。&lt;/p&gt;
+&lt;p&gt;软件特点：&lt;/p&gt;
+&lt;p&gt;跨平台：适用于 Windows x64/arm64 、MacOS x64/arm64 and Linux x64。&lt;/p&gt;
+&lt;p&gt;超分辨率：采用先进的算法和模型对图像进行放大处理，显著提高图像的分辨率，同时不损失质量。&lt;/p&gt;
+&lt;p&gt;多模型：提供多种模型，可实现不同级别的超分辨率效果，可以根据自己的需求选择最适合的模型。&lt;/p&gt;
+&lt;p&gt;自定义 Scale：可以灵活指定图像的放大倍数，从而实现更精细的超分辨率效果。&lt;/p&gt;
+&lt;p&gt;国际化：支持英文、中文和日文。&lt;/p&gt;
+&lt;p&gt;开源地址：&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Tohrusky/Final2x&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Tohrusky/Final2x&lt;/a&gt;
+	
+	
+&lt;span style=&#34;white-space: nowrap;&#34;&gt;&lt;svg width=&#34;.7em&#34;
+    height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+    &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+    &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+        fill=&#34;currentColor&#34;&gt;
+&lt;/svg&gt;&lt;/span&gt;
+
+&lt;/p&gt;
+&lt;h2 id=&#34;更新日志&#34;&gt;更新日志：&lt;/h2&gt;
+&lt;p&gt;v1.3.1&lt;/p&gt;
+&lt;p&gt;修复 macos-x64 核心构建，感谢 @b0gdanw&lt;/p&gt;
+&lt;p&gt;更新依赖关系。&lt;/p&gt;
+&lt;h2 id=&#34;下载地址&#34;&gt;下载地址：&lt;/h2&gt;
+&lt;p&gt;城通盘：https://url61.ctfile.com/d/12483661-56973951-222462?p=3333 访问码: 3333&lt;/p&gt;
+&lt;p&gt;迅雷盘：https://pan.xunlei.com/s/VNp3BOte1eUVmVjlPZNMD8jYA1?pwd=t3u6#&lt;/p&gt;
+&lt;p&gt;夸克盘：https://pan.quark.cn/s/cd2dab82bb49&lt;/p&gt;
+&lt;p&gt;天翼云：https://cloud.189.cn/t/z6ZjeyQZZ7bi 访问码：abl7&lt;/p&gt;
+&lt;p&gt;123 盘：https://www.123pan.com/s/QdiA-n8pmh.html&lt;/p&gt;
+&lt;h2 id=&#34;软件截图&#34;&gt;软件截图：&lt;/h2&gt;
+&lt;img decoding=&#34;async&#34; fetchpriority=&#34;high&#34; class=&#34;alignnone size-full&#34; src=&#34;https://cdn-us.imgs.moe/2023/07/14/64b13f497c6b8.png&#34;   /&gt;
+&lt;img decoding=&#34;async&#34; class=&#34;alignnone size-full&#34; src=&#34;https://cdn-us.imgs.moe/2023/07/14/64b13f5400db1.png&#34;   /&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.nav8.top/images/wechat.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;关注公众号免费获取下载密码&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>官方最新版 Windows 10（22H2 - 2024年7月更新版）</title>
+        <link>https://blog.nav8.top/%E5%AE%98%E6%96%B9%E6%9C%80%E6%96%B0%E7%89%88-windows-1022h2-2024%E5%B9%B47%E6%9C%88%E6%9B%B4%E6%96%B0%E7%89%88/</link>
+        <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.nav8.top/%E5%AE%98%E6%96%B9%E6%9C%80%E6%96%B0%E7%89%88-windows-1022h2-2024%E5%B9%B47%E6%9C%88%E6%9B%B4%E6%96%B0%E7%89%88/</guid>
+        <description>&lt;p&gt;本页收集了一些官方版的 Windows 10 系统，您可以根据需要下载。&lt;/p&gt;
+&lt;p&gt;注意：系统不包含驱动，需要您自行安装。&lt;/p&gt;
+&lt;p&gt;商业版 business editions ：包含 专业版、企业版、教育版、专业工作站版、专业教育版&lt;/p&gt;
+&lt;p&gt;消费者版 consumer editions ： 包含 家庭版、专业版、家庭单语言、教育版、专业工作站版、专业教育版&lt;/p&gt;
+&lt;p&gt;长期服务版 LTSC ：实际上也就是 Windows10 企业版的精简版本，在该系统中，并不会内置多余的应用程序，服务相对更加精简化&lt;/p&gt;
+&lt;h2 id=&#34;网盘分流&#34;&gt;网盘分流：&lt;/h2&gt;
+&lt;p&gt;迅雷盘：https://pan.xunlei.com/s/VNpdF9TGvPCIEU-wZ3rVnHF3A1?pwd=9x5j#&lt;/p&gt;
+&lt;p&gt;夸克盘：https://pan.quark.cn/s/500179d507c3&lt;/p&gt;
+&lt;h2 id=&#34;商业版-business-editions&#34;&gt;商业版 business editions&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Windows 10 (business editions), version 22H2 (updated July 2024) (x64) – DVD (Chinese-Simplified)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ed2k://|file|zh-cn_windows_10_business_editions_version_22h2_updated_july_2024_x64_dvd_53d015e8.iso|6972086272|30092E13EC9CF49E8333195C3FC100D1|/&lt;/p&gt;
+&lt;p&gt;magnet:?xt=urn:btih:90cee4de68ac0362196d082d120fc656cf27bf64&amp;amp;dn=zh-cn_windows_10_business_editions_version_22h2_updated_july_2024_x64_dvd_53d015e8.iso&amp;amp;xl=6972086272&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Windows 10 (business editions), version 22H2 (updated July 2024) (x86) – DVD (Chinese-Simplified)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ed2k://|file|zh-cn_windows_10_business_editions_version_22h2_updated_july_2024_x86_dvd_be7cc642.iso|4930727936|7F4A7FBD8E0948C0CEE5D255AFF7967B|/&lt;/p&gt;
+&lt;p&gt;magnet:?xt=urn:btih:a86d27c7830db91be05732f625ebf6fee127c073&amp;amp;dn=zh-cn_windows_10_business_editions_version_22h2_updated_july_2024_x86_dvd_be7cc642.iso&amp;amp;xl=4930727936&lt;/p&gt;
+&lt;h2 id=&#34;消费者版-consumer-editions&#34;&gt;消费者版 consumer editions&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Windows 10 (consumer editions), version 22H2 (updated July 2024) (x64) – DVD (Chinese-Simplified)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ed2k://|file|zh-cn_windows_10_consumer_editions_version_22h2_updated_july_2024_x64_dvd_3245b006.iso|7133401088|CB5C93CD9FCB8E054528F516BC87023A|/&lt;/p&gt;
+&lt;p&gt;magnet:?xt=urn:btih:04c08aeaf5f6849b30cead6f722138d7ce1460c6&amp;amp;dn=zh-cn_windows_10_consumer_editions_version_22h2_updated_july_2024_x64_dvd_3245b006.iso&amp;amp;xl=7133401088&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Windows 10 (consumer editions), version 22H2 (updated July 2024) (x86) – DVD (Chinese-Simplified)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ed2k://|file|zh-cn_windows_10_consumer_editions_version_22h2_updated_july_2024_x86_dvd_3245b006.iso|5018490880|BC453B2FD39DB212F13CFF2F22979F61|/&lt;/p&gt;
+&lt;p&gt;magnet:?xt=urn:btih:b9617bb1ea7603fa6f633eee16f3b5bd8cf5666c&amp;amp;dn=zh-cn_windows_10_consumer_editions_version_22h2_updated_july_2024_x86_dvd_3245b006.iso&amp;amp;xl=5018490880&lt;/p&gt;
+&lt;h2 id=&#34;长期服务版-ltsc&#34;&gt;长期服务版 LTSC&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Windows 10 Enterprise LTSC 2021 (x64) – DVD (Chinese-Simplified)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下载地址：&lt;/p&gt;
+&lt;p&gt;ed2k://|file|SW_DVD9_WIN_ENT_LTSC_2021_64BIT_ChnSimp_MLF_X22-84402.ISO|5044211712|1555B7DCA052B5958EE68DB58A42408D|/&lt;/p&gt;
+&lt;p&gt;magnet:?xt=urn:btih:366ADAA52FB3639B17D73718DD5F9E3EE9477B40&amp;amp;dn=SW_DVD9_WIN_ENT_LTSC_2021_64BIT_ChnSimp_MLF_X22-84402.ISO&amp;amp;xl=5044211712&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Windows 10 Enterprise LTSC 2021 (x86) – DVD (Chinese-Simplified)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ed2k://|file|SW_DVD9_WIN_ENT_LTSC_2021_32BIT_ChnSimp_MLF_X22-84401.ISO|3621132288|F67BB339ADFEFCF6ED22400EAACBD068|/&lt;/p&gt;
+&lt;p&gt;magnet:?xt=urn:btih:F8EC74BA352633CECF7A0D0AF1E98A7345C3C2FC&amp;amp;dn=SW_DVD9_WIN_ENT_LTSC_2021_32BIT_ChnSimp_MLF_X22-84401.ISO&amp;amp;xl=3621132288&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.nav8.top/images/wechat.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;关注公众号免费获取下载密码&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>官方最新版 Windows 11（23H2 - 2024年4月更新版）</title>
+        <link>https://blog.nav8.top/%E5%AE%98%E6%96%B9%E6%9C%80%E6%96%B0%E7%89%88-windows-1123h2-2024%E5%B9%B44%E6%9C%88%E6%9B%B4%E6%96%B0%E7%89%88/</link>
+        <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.nav8.top/%E5%AE%98%E6%96%B9%E6%9C%80%E6%96%B0%E7%89%88-windows-1123h2-2024%E5%B9%B44%E6%9C%88%E6%9B%B4%E6%96%B0%E7%89%88/</guid>
+        <description>&lt;p&gt;本页收集了一些官方版的 Windows 11 系统，您可以根据需要下载。&lt;/p&gt;
+&lt;p&gt;注意：系统不包含驱动，需要您自行安装。&lt;/p&gt;
+&lt;p&gt;商业版 business editions ：包含 专业版、企业版、教育版、专业工作站版、专业教育版&lt;/p&gt;
+&lt;p&gt;消费者版 consumer editions ： 包含 家庭版、专业版、家庭单语言、教育版、专业工作站版、专业教育版&lt;/p&gt;
+&lt;h2 id=&#34;网盘分流&#34;&gt;网盘分流：&lt;/h2&gt;
+&lt;p&gt;迅雷盘：https://pan.xunlei.com/s/VNpdCcM8kUs65wZHGA88hoA4A1?pwd=r9zx#&lt;/p&gt;
+&lt;p&gt;夸克盘：https://pan.quark.cn/s/e6e16a7d2c97&lt;/p&gt;
+&lt;h2 id=&#34;商业版-business-editions&#34;&gt;商业版 business editions&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Windows 11 (business editions), version 23H2 (updated july 2024) (x64) – DVD (Chinese-Simplified)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;下载地址：&lt;/p&gt;
+&lt;p&gt;ed2k://|file|zh-cn_windows_11_business_editions_version_23h2_updated_july_2024_x64_dvd_8c3fbaa8.iso|7080916992|C3714D8C8F78EC977B28952E93E240FA|/&lt;/p&gt;
+&lt;p&gt;magnet:?xt=urn:btih:0a02b7f5a1617ca5932c0a9235251fcb906c8465&amp;amp;dn=zh-cn_windows_11_business_editions_version_23h2_updated_july_2024_x64_dvd_8c3fbaa8.iso&amp;amp;xl=7080916992&lt;/p&gt;
+&lt;h2 id=&#34;消费者版-consumer-editions&#34;&gt;消费者版 consumer editions&lt;/h2&gt;
+&lt;p&gt;下载地址：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Windows 11 (consumer editions), version 23H2 (updated july 2024) (x64) – DVD (Chinese-Simplified)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ed2k://|file|zh-cn_windows_11_consumer_editions_version_23h2_updated_july_2024_x64_dvd_13e3dd80.iso|7166619648|3FA75D15C2ABF13038B658DCCC0FDD63|/&lt;/p&gt;
+&lt;p&gt;magnet:?xt=urn:btih:b9358c9122d5aa7a90308fc9d8992158bbb4e891&amp;amp;dn=zh-cn_windows_11_consumer_editions_version_23h2_updated_july_2024_x64_dvd_13e3dd80.iso&amp;amp;xl=7166619648&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.nav8.top/images/wechat.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;关注公众号免费获取下载密码&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>个人IP打造的五个关键步骤_助力个人影响力飙升</title>
+        <link>https://blog.nav8.top/%E4%B8%AA%E4%BA%BAip%E6%89%93%E9%80%A0%E7%9A%84%E4%BA%94%E4%B8%AA%E5%85%B3%E9%94%AE%E6%AD%A5%E9%AA%A4_%E5%8A%A9%E5%8A%9B%E4%B8%AA%E4%BA%BA%E5%BD%B1%E5%93%8D%E5%8A%9B%E9%A3%99%E5%8D%87/</link>
+        <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.nav8.top/%E4%B8%AA%E4%BA%BAip%E6%89%93%E9%80%A0%E7%9A%84%E4%BA%94%E4%B8%AA%E5%85%B3%E9%94%AE%E6%AD%A5%E9%AA%A4_%E5%8A%A9%E5%8A%9B%E4%B8%AA%E4%BA%BA%E5%BD%B1%E5%93%8D%E5%8A%9B%E9%A3%99%E5%8D%87/</guid>
+        <description>&lt;p&gt;在互联网存量时期，生意难做、流量贵。但是通过打造个人IP，我们可以有策略地建立自己的影响力，并实现商业变现。打造个人IP不仅仅是成为网红，而是通过鲜明的个人定位、拥有好产品、持续输出优质内容、多渠道流量来源和定期做复盘等五个关键步骤，来提升个人影响力。让我们一起来探索如何打造个人IP，实现个人影响力的提升吧！
+&lt;img alt=&#34;图片[1]-个人IP打造的五个关键步骤_助力个人影响力飙升&#34; decoding=&#34;async&#34; src=&#34;https://www.afxw5.com/wp-content/themes/zibll/img/thumbnail-lg.svg&#34; data-src=&#34;https://www.afxw5.com/wp-content/uploads/2023/10/20231026161710929-image.png&#34;   class=&#34;wp-image-39706&#34;/&gt;
+生意越来越难做，流量越来越贵，因为互联网已经到了存量的时期，增长变得缓慢。那么做个人IP就是在打造自己的影响力，有策略的经营自己和用户的关系，从而达到商业变现。&lt;/p&gt;
+&lt;p&gt;打造个人IP不等于当网红，做好以下5点：&lt;/p&gt;
+&lt;p&gt;①【鲜明的个人定位】&lt;/p&gt;
+&lt;p&gt;你是谁？你的个人定位是什么？在这个竞争激烈的行业里，你需要明确自己的性格特点和所处行业，让自己在人群中脱颖而出。同时要清楚自己的价值，能够给别人带来什么，把长板加长更有优势，把特点扩大化，让自己与众不同。&lt;/p&gt;
+&lt;p&gt;②【拥有好产品】&lt;/p&gt;
+&lt;p&gt;好产品是树立IP的重要部分。产品的质量过硬，可以解决人群垂直的问题，让你在竞品中有竞争力。同时，售后跟进要及时，让用户放心。不要忘记把产品的优点放大，让更多人知道。&lt;/p&gt;
+&lt;p&gt;③【持续输出好内容】&lt;/p&gt;
+&lt;p&gt;好内容是吸引用户的关键。输出的内容要有价值，对别人有用，同时要保持稳定的频率，内容角度要利他，因为利他是商业的根本。&lt;/p&gt;
+&lt;p&gt;④【多渠道流量来源】&lt;/p&gt;
+&lt;p&gt;流量管道要多，多渠道分发内容。流量分布要广，有人的地方就有需求。深度锁粉，用价值套牢注意力，用心维护粉丝，把信任你的人当成朋友。&lt;/p&gt;
+&lt;p&gt;⑤【定期做复盘】&lt;/p&gt;
+&lt;p&gt;定期做复盘，审视过往不足，找出做得欠缺的部分，及时纠正。同时要做短期及长期计划，有计划不至于盲目。提升思考能力，善于想问题，提升认知和保持空杯心态。&lt;/p&gt;
+&lt;p&gt;通过鲜明的个人定位、拥有好产品、持续输出优质内容、多渠道流量来源和定期做复盘，我们可以成功打造个人IP，提升个人影响力。这不仅仅是私域营销的重要手段，更是建立个体私域运营的关键。赶快开始行动吧，让我们的个人IP蓬勃发展，实现个人影响力的提升！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.nav8.top/images/wechat.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;关注公众号免费获取下载密码&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>短袖衬衫在夏季穿搭中如何选择与搭配？解锁你的清爽时尚密码！</title>
+        <link>https://blog.nav8.top/%E7%9F%AD%E8%A2%96%E8%A1%AC%E8%A1%AB%E5%9C%A8%E5%A4%8F%E5%AD%A3%E7%A9%BF%E6%90%AD%E4%B8%AD%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E4%B8%8E%E6%90%AD%E9%85%8D%E8%A7%A3%E9%94%81%E4%BD%A0%E7%9A%84%E6%B8%85%E7%88%BD%E6%97%B6%E5%B0%9A%E5%AF%86%E7%A0%81/</link>
+        <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.nav8.top/%E7%9F%AD%E8%A2%96%E8%A1%AC%E8%A1%AB%E5%9C%A8%E5%A4%8F%E5%AD%A3%E7%A9%BF%E6%90%AD%E4%B8%AD%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E4%B8%8E%E6%90%AD%E9%85%8D%E8%A7%A3%E9%94%81%E4%BD%A0%E7%9A%84%E6%B8%85%E7%88%BD%E6%97%B6%E5%B0%9A%E5%AF%86%E7%A0%81/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://blog.nav8.top/gallery/person/6.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;短袖衬衫在夏季穿搭中应该如何选择和搭配？&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;嘿，各位时尚小达人！随着夏天的悄然来临，衣橱里那些沉睡的短袖衬衫是时候出来透透气啦！今天，我们就来聊聊如何在炎炎夏日中，选择和搭配短袖衬衫，让你的每一次出街都成为行走的清爽风向标！&lt;/p&gt;
+&lt;h3 id=&#34;一选择篇解锁清爽夏日的秘密&#34;&gt;一、选择篇：解锁清爽夏日的秘密&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;材质为王&lt;/strong&gt;：夏天，透气性是关键。纯棉、亚麻或是混纺材质的短袖衬衫是首选，它们轻薄透气，吸汗速干，让肌肤享受夏日的自由呼吸。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;色彩搭配&lt;/strong&gt;：浅色系（如白色、浅蓝、米色）自然是夏日的宠儿，清爽不吸热。但别忘了，亮色系（如明黄、湖绿）或鲜艳的印花也能让你成为街头的亮点，关键是与肤色相衬。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;版型选择&lt;/strong&gt;：对于梨形身材，A字型或略带宽松的衬衫能很好地平衡上下身比例；苹果型身材则可选择V领设计，拉长颈部线条；而修身款式适合瘦削或标准身材，展现身形之美。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;细节加分&lt;/strong&gt;：小立领、袖口滚边或是背部的特殊设计，都能让你的衬衫在众多中脱颖而出，彰显个性。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;二搭配篇解锁夏日时尚新玩法&#34;&gt;二、搭配篇：解锁夏日时尚新玩法&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;休闲风&lt;/strong&gt;：简单的白色短袖衬衫搭配高腰牛仔短裤，脚踏一双白色板鞋，轻松又不失时尚感。再加顶渔夫帽或鸭舌帽，假日气息满满。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;通勤优雅&lt;/strong&gt;：选择一件条纹或纯色的短袖衬衫，搭配阔腿裤或西装裤，瞬间提升职业感。一双尖头平底鞋或低跟鞋，既舒适又能拉长腿部线条。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;甜美约会&lt;/strong&gt;：浅粉色或碎花短袖衬衫，与白色或浅色系的半身裙组合，少女感十足。记得搭配小巧的耳饰和简约手链，增加细节亮点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;街头潮酷&lt;/strong&gt;：oversize的短袖衬衫当作外套穿，内搭紧身背心或吊带，下身选择紧身裤或骑行短裤，踩上一双马丁靴或老爹鞋，街头风即刻呈现。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;三小心机大不同&#34;&gt;三、小心机，大不同&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;配饰&lt;/strong&gt;：一顶帽子、一条个性项链或是腰间的细腰带，都能成为整体造型的点睛之笔。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;层次感&lt;/strong&gt;：在空调房内，不妨在外搭一件轻薄针织衫或开衫，既保暖又不失层次感。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;色彩呼应&lt;/strong&gt;：鞋子、包包或配饰与衬衫的某一处颜色相呼应，能让整体搭配看起来更加和谐统一。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;好啦，掌握了这些搭配小技巧，相信你的夏季衣橱不再单调，每一天都能穿出新意与风采！记得，时尚不仅仅是跟风，更是展现自我风格的过程。这个夏天，让我们一起，用短袖衬衫演绎属于自己的清爽时尚故事吧！别忘了，在评论区分享你的搭配心得，让我们共同交流，一起变美哦！
+&lt;img src=&#34;https://blog.nav8.top/images/wechat.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;欢迎关注微信公众号：潜能觉醒&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>夏日色彩魔法：如何运用色彩搭配原则，穿出清爽感？</title>
+        <link>https://blog.nav8.top/%E5%A4%8F%E6%97%A5%E8%89%B2%E5%BD%A9%E9%AD%94%E6%B3%95%E5%A6%82%E4%BD%95%E8%BF%90%E7%94%A8%E8%89%B2%E5%BD%A9%E6%90%AD%E9%85%8D%E5%8E%9F%E5%88%99%E7%A9%BF%E5%87%BA%E6%B8%85%E7%88%BD%E6%84%9F/</link>
+        <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.nav8.top/%E5%A4%8F%E6%97%A5%E8%89%B2%E5%BD%A9%E9%AD%94%E6%B3%95%E5%A6%82%E4%BD%95%E8%BF%90%E7%94%A8%E8%89%B2%E5%BD%A9%E6%90%AD%E9%85%8D%E5%8E%9F%E5%88%99%E7%A9%BF%E5%87%BA%E6%B8%85%E7%88%BD%E6%84%9F/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://blog.nav8.top/gallery/person/7.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;夏季如何运用色彩搭配原则穿出清凉感？&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;嘿，时尚界的小伙伴们！随着温度计的水银柱节节攀升，我们的夏日穿搭也该来点清凉魔法了！今天，就让我们一起探究如何运用色彩搭配原则，让你在炎炎夏日里，不仅视觉上降温十度，还能成为街头最清新脱俗的风景线！&lt;/p&gt;
+&lt;h3 id=&#34;一冷色调的魔力&#34;&gt;一、冷色调的魔力&lt;/h3&gt;
+&lt;h4 id=&#34;色彩原理小课堂&#34;&gt;色彩原理小课堂：&lt;/h4&gt;
+&lt;p&gt;冷色调，如蓝色、绿色、紫色，给人以宁静、凉爽的感觉，是夏日穿搭的不二之选。它们仿佛自带空调特效，只需一眼，就能让人心旷神怡。&lt;/p&gt;
+&lt;h4 id=&#34;实战攻略&#34;&gt;实战攻略：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;天空蓝&lt;/strong&gt;：一件天空蓝的衬衫或连衣裙，搭配白色短裤或浅色牛仔裤，清新如夏日清晨的微风。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;薄荷绿&lt;/strong&gt;：薄荷绿的短袖T恤，与浅灰色休闲裤或白色短裙组合，清新中带着一丝甜美的清凉感。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;淡紫色&lt;/strong&gt;：选择淡紫色的上衣，与米色或淡粉色下装搭配，营造出温柔又不失活力的夏日氛围。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;二高明度与低饱和度的奥秘&#34;&gt;二、高明度与低饱和度的奥秘&lt;/h3&gt;
+&lt;h4 id=&#34;色彩进阶&#34;&gt;色彩进阶：&lt;/h4&gt;
+&lt;p&gt;高明度（亮度高）、低饱和度（色彩纯度低）的色彩，如浅蓝、淡粉、米白，不仅视觉上更为柔和，还能反射阳光，减少吸热，是夏日的降温高手。&lt;/p&gt;
+&lt;h4 id=&#34;搭配技巧&#34;&gt;搭配技巧：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;全色系搭配&lt;/strong&gt;：全身采用同色系但不同深浅的搭配，如浅蓝上衣配天蓝短裤，层次分明，清爽又和谐。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;对比色点缀&lt;/strong&gt;：在低饱和度的基底上，用少量鲜艳色彩做点缀，如淡黄T恤搭配浅蓝牛仔裤，再以红色小包或鞋子作为点睛之笔，既不过分张扬，又充满活力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;三白色夏日永恒的经典&#34;&gt;三、白色，夏日永恒的经典&lt;/h3&gt;
+&lt;h4 id=&#34;白色的魅力&#34;&gt;白色的魅力：&lt;/h4&gt;
+&lt;p&gt;在所有色彩中，白色最具清凉感，它反射阳光，吸收最少的热量，而且超级百搭，是夏季衣橱的必备色。&lt;/p&gt;
+&lt;h4 id=&#34;白色穿搭术&#34;&gt;白色穿搭术：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;白色连衣裙&lt;/strong&gt;：简单大方的白色连衣裙，无论是蕾丝、棉麻还是丝绸材质，都能穿出不同的风格，搭配一双凉鞋或小白鞋，轻松驾驭各种场合。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;白色T恤+任何下装&lt;/strong&gt;：白色T恤是夏日的万能单品，搭配牛仔裤、半身裙、甚至是印花长裤，都能穿出清爽又时尚的Look。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;四小配饰大作用&#34;&gt;四、小配饰，大作用&lt;/h3&gt;
+&lt;p&gt;别忘了，配饰也是色彩搭配的重要一环。浅色系的帽子、太阳镜、包包，甚至是手表、项链，都可以成为整体造型的清凉点缀。&lt;/p&gt;
+&lt;h3 id=&#34;结语&#34;&gt;结语&lt;/h3&gt;
+&lt;p&gt;掌握这些色彩搭配原则，即使在最炎热的日子里，你也能穿出满满的清凉感和时尚感。记住，穿搭不仅是外表的展现，更是心情的表达。让我们在这个夏天，用色彩的语言，讲述属于自己的清新故事吧！别忘了在评论区分享你的夏日色彩搭配小心得，我们一起交流，一起美丽！
+&lt;img src=&#34;https://blog.nav8.top/images/wechat.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;欢迎关注微信公众号：潜能觉醒&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>夏季如何搭配短裤？显瘦又时尚的终极指南！</title>
         <link>https://blog.nav8.top/%E5%A4%8F%E5%AD%A3%E5%A6%82%E4%BD%95%E6%90%AD%E9%85%8D%E7%9F%AD%E8%A3%A4%E6%98%BE%E7%98%A6%E5%8F%88%E6%97%B6%E5%B0%9A%E7%9A%84%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97/</link>
         <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
